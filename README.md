@@ -8,6 +8,7 @@ Open the “SPiiPlusMMI Application Studio” software and connect it to the lin
 Click on “Enable motors” and digit “COMMUT (0)” in the dialog box. Import the “Real move” motion manager file (.mmf) script.
 
 This will appear in your motion manager:
+
 ![image](https://user-images.githubusercontent.com/96936724/147846829-290bcb46-6e41-402e-b887-43ce546d0c98.png)
 
 Digit in the "Move by" field the distance you want your stage to travel (unit is in cm). Click on "+/-" blue button to move the stage in the forward or backward direction respectively. 
