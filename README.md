@@ -4,6 +4,7 @@ Script for simplified movements of motorized STANDA linear stage
 This is a script for “SPiiPlusMMI Application Studio” software (.mmf file) for movement of the software controlled motorized linear stage 8MTL1401-300-LEn1-100 (STANDA, Vilnius, Lithuania).
 
 HOW TO USE:
+
 Open the “SPiiPlusMMI Application Studio” software and connect it to the linear stage to control it via computer. 
 Click on “Enable motors” and digit “COMMUT (0)” in the dialog box. Import the “Real move” motion manager file (.mmf) script.
 
